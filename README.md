@@ -1,4 +1,4 @@
-# Project11_1listview_insert_delete
+# AD_ex11_1listview_insert_delete
 
 # 1장 리스트뷰 , 그리드뷰의 예제 
 
